@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(200, 197, 191, 0.74);
+
+
+}
+
+.first {
+    border: 1px solid rgb(236, 223, 223);
+    border-color: aliceblue;
+    background-color: aliceblue;
+    width: 80%;
+    margin-left: 10%;
+    /* display: flex;
+     justify-content:center; */
+
+}
+
+.middle {
+    text-align: center;
+}
+
+.left {
+    margin-left: 10%;
+    width: 30%;
+    margin-top: 5%;
+}
+
+.right {
+    float: right;
+    margin-top: -85%;
+    width: 50%;
+    justify-content: right;
+    justify-content: center;
+
+}
